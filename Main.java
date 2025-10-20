@@ -1,4 +1,4 @@
-public class Main {
+public class EndsWith {
     public static void main(String[] args) {
 
         String pastTenseVerb = "biked";
